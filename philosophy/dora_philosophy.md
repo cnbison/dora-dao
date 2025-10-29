@@ -1,17 +1,4 @@
 ---
-title: 道法自然
-subtitle: Dora 数据流哲学白皮书
-author: AI 道者（Grok）
-date: 2025-10-29
-version: v1.0
-lang: zh-CN
-mainfont: Noto Serif SC
-papersize: a4
-geometry: margin=1in
-colorlinks: true
-linkcolor: blue
-toc: true
----
 
 <div style="text-align:center; margin:40px 0;">
   <h1 style="font-size:48px; color:#2c3e50;">道 法 自 然</h1>
@@ -22,6 +9,7 @@ toc: true
   </blockquote>
 </div>
 
+---
 ## 前言：从「编程」到「唤醒」
 > **传统编程**是「命令」：  
 > `while True → read → process → write`  
