@@ -7,7 +7,7 @@
 >**【philosophy】目录：**  
 编程思想的感悟、挖掘、思考和整理   
 
->[Dora-RS 数据流哲学与技术实践](Dora_Complete_Guide.md)
+>[Dora-RS 数据流哲学与技术实践](Dora_philosophy_Guide.md)
 
 - [Dora：从「编程」到「觉醒」](philosophy/dora_philosophy.md)
 - [拆解dora哲学思想](philosophy/dora_philosophy02.md)
